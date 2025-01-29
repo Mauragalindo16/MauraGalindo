@@ -29,13 +29,13 @@
 
 Mis proyectos
 
-Primer proyecto: Este fue el primer flujo de una aplicacion que hice en el curso de UX Design Fundamentals en Coursera
+Primer proyecto: Este fue el primer flujo de una aplicacion que hice en el curso de "UX Design Fundamentals" en Coursera.
 https://xd.adobe.com/view/927b248d-f15a-400c-94e4-2f873af06d26-c728/?fullscreen&hints=off
 
-Segundo proyecto: Esta fue mi primera pagina wed, que hice en el curso de Yo puedo programar con junior achievement
+Segundo proyecto: Esta fue mi primera pagina wed, que hice en el curso de "Yo puedo programar" con junior achievement.
 https://miprimersitioweb.org.ar/proyectos/nube/galindo_maura/
 
-Proyecto 3: Este fuE mi primer analisis de datos en excel en el curso Procesamiento de datos en excel de Coderhouse
+Proyecto 3: Este fue mi primer analisis de datos en excel en el curso "Procesamiento de datos en excel" de Coderhouse.
 https://wk.ar/sK9
 
 
